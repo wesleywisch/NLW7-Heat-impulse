@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "commonjs",                                /* Specify what module code is generated. */
+    "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
+    "strict": false,
+    "skipLibCheck": true,
+    "esModuleInterop": true,                                 /* Skip type checking all .d.ts files. */
+    "typeRoots": ["./src/@types", "node_modules/@types"]
+  }
+}
