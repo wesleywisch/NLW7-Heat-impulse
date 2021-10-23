@@ -1,11 +1,9 @@
 import React from "react";
 import { View, Text } from 'react-native';
-
 import { MotiView } from 'moti';
+import { UserPhoto } from "../UserPhoto";
 
 import { styles } from "./styles";
-
-import { UserPhoto } from "../UserPhoto";
 
 export type MessageProps = {
   id: string;

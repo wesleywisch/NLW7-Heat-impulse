@@ -1,11 +1,10 @@
 import React from "react";
 import { Image } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
+import { COLORS } from "../../theme";
+import avatarImg from '../../assets/avatar.png';
 
 import { styles } from './styles';
-import { COLORS } from "../../theme";
-
-import avatarImg from '../../assets/avatar.png';
 
 const SIZES = {
   SMALL: {

@@ -1,10 +1,11 @@
 import React from 'react';
-
 import { useFonts, Roboto_400Regular, Roboto_700Bold } from '@expo-google-fonts/roboto';
 import AppLoading from 'expo-app-loading';
 import { StatusBar } from 'expo-status-bar';
 
 import { Home } from './src/screens/home';
+
+import { AuthProvider } from './src/hooks/auth';
 
 export default function App() {
   const [fontsLoaded] = useFonts({
@@ -19,9 +20,9 @@ export default function App() {
   }
 
   return (
-    <>
-      <StatusBar style="light" />
+    <AuthProvider>
+      <StatusBar style="light" translucent backgroundColor="transparent" />
       <Home />
-    </>
+    </AuthProvider>
   );
 };
