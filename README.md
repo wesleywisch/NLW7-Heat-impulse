@@ -1,6 +1,6 @@
 <h1 align="center">🚀 NLW7-Heat-impulse 🚀</h1>
 
-<p align="center">  <a href="#sobre">📋 Sobre</a> • <a href="#layout">🎨 Layout</a> • <a href="#aplicacao">🎲 Aplicação</a>  • <a href="#techs">💻 Tecnologias</a> • <a href="#autor">🦸 Autor</a> • <a href="#licenca">⚠️ Licença</a> </p>
+<p align="center">  <a href="#sobre">📋 Sobre</a> • <a href="#layout">🎨 Layout</a> • <a href="#aplicacao">🎲 Aplicação</a>  • <a href="#techs">💻 Tecnologias</a> • <a href="#layout">🔖 Layout</a> • <a href="#licenca">⚠️ Licença</a> </p>
 
 
   <h2 id="sobre"> 📋 Sobre o projeto</h2>
@@ -147,11 +147,12 @@ $ E pronto já estará funcionando
 	- [socket.io-client]()
  
 
- <h2 id="autor"> 🦸 Autor</h2>
+<h2 id="layout">🔖 Layout</h2>
+Veja o layout no link abaixo (inspiração para o layout web):
 
-[Wesley Wisch](https://www.linkedin.com/in/wesley-wisch)
+- [Layout](https://www.figma.com/community/file/1031699316177416916)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square-border&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-wisch/)](https://www.linkedin.com/in/wesley-wisch) [![Instagram Badge](https://img.shields.io/badge/-Instagram-CC0000?style=flat-square-border&logo=Instagram&logoColor=white&link=https://www.instagram.com/wesley_wisch/)](https://www.instagram.com/wesley_wisch/) [![wesley_wisch@hotmail.com Bagde](https://img.shields.io/badge/wesley_wisch-2e7eea?style=flat-square-border&logo=microsoft-outlook&logoColor=white)](mailto:wesley_wisch@hotmail.com)
+Você precisa de uma conta no [Figma](http://figma.com/) para acessar.
 
 <h2 id="licenca"> ⚠️  Licença</h2>
 
